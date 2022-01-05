@@ -13,7 +13,7 @@ namespace dioDesafioDois
         Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.
       */
         public static void Main()
-        {
+        {  
             int n;
             n = int.Parse(Console.ReadLine());
 
